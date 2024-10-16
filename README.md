@@ -1,4 +1,4 @@
-<h1 align="center>Welcome to my World!</h1>
+# Welcome to my World!
 ### I`m a beginner Frontend Developer with a small background of online University courses and self-development
 ### What I already know:
 * HTML5
